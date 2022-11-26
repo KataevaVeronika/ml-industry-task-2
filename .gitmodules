@@ -1,0 +1,3 @@
+[submodule "imdb-crawler"]
+	path = imdb-crawler
+	url = https://github.com/Emidiant/imdb-crawler.git
